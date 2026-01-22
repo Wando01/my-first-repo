@@ -1,5 +1,5 @@
 one Home
-two home (Modified two)
-three on (Modified three)
+two home
+three on
 four the
-five range 
+five range
